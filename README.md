@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nushNada
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in robotics and artificial intelligence
+- 🌱 I’m currently learning Ai and Java
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me ......
 - 😄 Pronouns: .

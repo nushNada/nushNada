@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nushNada
-- 👀 I’m interested in robotics and artificial intelligence
+- 👀 I’m interested in robotics, python development and artificial intelligence
 - 🌱 I’m currently learning Ai and Java
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me ......
